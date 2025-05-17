@@ -3,3 +3,6 @@
 
 #virtual environment
 .mainenv/
+
+#pycache folder
+__pycache__
