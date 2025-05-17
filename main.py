@@ -7,7 +7,7 @@ def show_interface_options():
     print("2. Web Interface (Flask)")
     print("3. Exit")
 
-def fish():
+def main():
     while True:
         show_interface_options()
         try:
@@ -29,4 +29,4 @@ def fish():
             print("Invalid choice. Try again.")
 
 if __name__ == "__main__":
-    fish()
+    main()
