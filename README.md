@@ -15,3 +15,16 @@ Technologies:
 2. MySQL
 3. 'bcrypt' - password hashing and salting
 4. 'mysql-connector-python' - database connection
+
+Project Structure:
+account_credential_editor
+├── backend/
+│   ├── auth.py          Handles account creation, login, update functions
+│   ├── database.py      Handles DB connection logic
+│   └── utils.py         Helper function (not yet implemented)
+├── frontend/
+│   ├── cli.py           Command line intergace
+│   └── web_app.py       Future web interface with Flask/FastAPI (not yet implemented)
+├── .env                 DB credentials
+├── requirements.txt
+└── main.py
