@@ -2,7 +2,7 @@
 .env
 
 #virtual environment
-.mainenv/
+.venv
 
 #pycache folder
 __pycache__

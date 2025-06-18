@@ -1,4 +1,4 @@
-from backend.auth import account_creation, account_login, change_password, change_username
+from src.auth import account_creation, account_login, change_password, change_username
 
 def run_cli():
     while True:

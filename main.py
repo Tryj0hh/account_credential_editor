@@ -17,7 +17,7 @@ def main():
             continue
 
         if choice == 1:
-            import frontend.cli as cli
+            import src.cli as cli
             cli.run_cli()
             break
         elif choice == 2:

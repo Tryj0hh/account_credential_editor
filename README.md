@@ -15,8 +15,3 @@ Technologies:
 2. MySQL
 3. 'bcrypt' - password hashing and salting
 4. 'mysql-connector-python' - database connection
-
-Project Structure:
-
-![image](https://github.com/user-attachments/assets/b270a326-f147-408b-9d27-78b6aad7cada)
-

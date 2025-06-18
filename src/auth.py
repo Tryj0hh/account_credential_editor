@@ -1,5 +1,5 @@
 import bcrypt
-from backend.database import connect_to_db
+from src.database import connect_to_db
 
 mydb = connect_to_db()
 cursor = mydb.cursor()
