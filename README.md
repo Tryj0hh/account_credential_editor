@@ -15,3 +15,16 @@ Technologies:
 2. MySQL
 3. 'bcrypt' - password hashing and salting
 4. 'mysql-connector-python' - database connection
+
+File structure:
+├──src
+│   ├──__init__.py
+│   ├──auth.py
+│   ├──cli.py
+│   ├──database.py
+│   ├──utilities.py
+├──.env
+├──.gitignore
+├──main.py
+├──README.md
+├──requirements.txt
