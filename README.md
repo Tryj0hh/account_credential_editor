@@ -37,7 +37,9 @@ File structure:
 
 │ ├──utilities.py 
 
-├──.env 
+├──vars
+
+│ ├──.env
 
 ├──.gitignore 
 
