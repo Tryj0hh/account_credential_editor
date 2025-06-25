@@ -16,7 +16,15 @@ Technologies:
 3. 'bcrypt' - password hashing and salting
 4. 'mysql-connector-python' - database connection
 
+In order to connect to the database correctly, create a folder titled 'vars'. Inside this folder,
+create a .env file and fill in the following lines:
+DB_HOST=<--->
+DB_USER=<--->
+DB_PASSWORD=<--->
+DB_NAME=<--->
+
 File structure: 
+
 ├──src 
 
 │ ├──__init__.py 
