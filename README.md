@@ -19,13 +19,7 @@ Technologies:
 In order to connect to the database correctly, create a folder titled 'vars'. Inside this folder,
 create a .env file and fill in the following lines:
 
-DB_HOST=<--->
-
-DB_USER=<--->
-
-DB_PASSWORD=<--->
-
-DB_NAME=<--->
+```DB_HOST=<---> DB_USER=<---> DB_PASSWORD=<---> DB_NAME=<--->```
 
 
 File structure: 
